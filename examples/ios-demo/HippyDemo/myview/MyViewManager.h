@@ -20,11 +20,12 @@
 * limitations under the License.
 */
 
-#import "HippyEventObserverModule.h"
+#import "HippyViewManager.h"
+
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface HippyMyEventModule : HippyEventObserverModule
+@interface MyViewManager : HippyViewManager
 
 @end
 
